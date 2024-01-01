@@ -4,9 +4,7 @@ A cool new practice! I tried to make different elements change appearance when o
 **Author** Shepe
 
 **Website** 
-- Link 1: https://main--delicate-mooncake-1d83f7.netlify.app/
-- Link 2: https://64bcfcbbefc13a0a368a5c1e--delicate-mooncake-1d83f7.netlify.app/
-- Link 3: https://steady-taiyaki-af9597.netlify.app
+https://intis-hot-news-agondorr-van.netlify.app
 
 **Notes**
 Photos were made with https://openart.ai/
